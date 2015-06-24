@@ -1,0 +1,29 @@
+body{
+	padding-top: 100px;
+}
+
+.text-editor-wrap{
+	padding: 0px;
+	margin: 0px;
+
+}
+
+.iframe{
+	border: 2px solid cyan;
+	height: 10em;
+	width: 30em;
+}
+.list{
+	list-style: none;
+}
+
+.text-editor{
+	display: none;
+}
+
+.output-div{
+	padding: 10px;
+	border: 1px solid gray;
+	height: 10em;
+	width: 30em;
+}
