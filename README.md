@@ -1,13 +1,6 @@
 # WYSIWYG-Editor
-A small and simple plugin to create a WYSIWYG Html Editor. Its very light-weight (just 4kb) and performs all the simple editing taks such as:
-BOLD,
-ITALIC,
-UNDERLINE,
-FONT-SIZE,
-FONT-COLOR,
-INSERT IMAGE,
-CREATE-LINK,
-UNLINK,
-PREVIEW!
-And it is very easy to begin with.
+Steps to add this simple WYSIWYG editor into your textarea.
+1. create a textarea and give it a class name of .text-editor and id of #text_editor.
+2. link the myjs.js file inside js folder to your html page.
+3. Its done. Its that simple.
 
